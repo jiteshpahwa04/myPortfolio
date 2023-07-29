@@ -118,9 +118,10 @@ body{
     transform: scale(1.05);
 }
 #project1 {
-    background-image: url(/images/projects/Project1.png);
+    background-image: url(https://res.cloudinary.com/dempbr6pc/image/upload/v1690629463/portfolio_website/Project1_o28umt.png);
     animation: card1 1.5s 0s 1 cubic-bezier(0.55,-0.04, 0.62, 1.07);
     animation-play-state: paused;
+    background-position: center;
 }
 @keyframes card1 {
     0%{
@@ -132,9 +133,10 @@ body{
 }
 
 #project2 {
-    background-image: url(/images/projects/Project2.png);
+    background-image: url(https://res.cloudinary.com/dempbr6pc/image/upload/v1690629463/portfolio_website/Project2_ahxiri.png);
     animation: card2 1.5s 0s 1 cubic-bezier(0.55,-0.04, 0.62, 1.07);
     animation-play-state: paused;
+    background-position: center;
 
 }
 @keyframes card2 {
@@ -147,9 +149,10 @@ body{
 }
 
 #project3 {
-    background-image: url(/images/projects/Project3.png);
+    background-image: url(https://res.cloudinary.com/dempbr6pc/image/upload/v1690629464/portfolio_website/Project3_wlftah.png);
     animation: card3 1.5s 0s 1 cubic-bezier(0.55,-0.04, 0.62, 1.07);
     animation-play-state: paused;
+    background-position: center;
 }
 @keyframes card3 {
     0%{
@@ -161,9 +164,10 @@ body{
 }
 
 #project4 {
-    background-image: url(/images/projects/Project4.png);
+    background-image: url(https://res.cloudinary.com/dempbr6pc/image/upload/v1690629463/portfolio_website/Project4_c2hbjh.png);
     animation: card4 1.5s 0s 1 cubic-bezier(0.55,-0.04, 0.62, 1.07);
     animation-play-state: paused;
+    background-position: center;
 }
 @keyframes card4 {
     0%{
